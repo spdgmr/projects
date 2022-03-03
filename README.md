@@ -14,6 +14,7 @@ Here is a list of most of my projects that I work on or have worked on.
 - wii // Nintendo Wii Homebrew archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/wii)
 - configurations // speedie's dotfiles and configurations [[Download]](https://github.com/speediegamer/configurations)
 - gentoo-install // gentoo-install is a simple repository with scripts to automate the [Gentoo](https://gentoo.org) installation and ricing process. [[Download]](https://github.com/speediegamer/gentoo-install)
+- gentoo-vmkernel // Gentoo kernel config for running Gentoo virtual machines. [[Download]](https://github.com/speediegamer/gentoo-vmkernel)
 - setwallpaper // Simple TUI interface for easily setting your wallpaper with *feh* using Tiling Window Managers like dwm or i3 [[Download]](https://github.com/speediegamer/setwallpaper)
 - L-G_helper // Fork of L-G_helper for Gentoo/OpenRC which allows you to easily set up a Looking Glass QEMU/KVM setup. [[Download]](https://github.com/speediegamer/L-G_Helper)
 - keychron-linux // Systemd and OpenRC services which add function key support in Linux for Keychron and Apple keyboards. [[Download]](https://github.com/speediegamer/keychron-linux)
