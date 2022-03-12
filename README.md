@@ -1,6 +1,6 @@
 # speedie's page
 
-#### // [Project 081](https://p081.github.io) | [Elevendebloater](https://spdgmr.github.io/elevendebloater) | [sfetch](https://spdgmr.github.io/sfetch) | [More Projects](https://spdgmr.github.io/projects) | [spDE](https://speedie-de.github.io) | [Discord server](https://ffdiscord.github.io) | [Twitter](https://nitter.net/spdgmr) | [YouTube](https://invidious.namazso.eu/speedie) | [RSS](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml)
+#### // [Project 081](https://p081.github.io) | [Elevendebloater](https://spdgmr.github.io/elevendebloater) | [sfetch](https://spdgmr.github.io/sfetch) | [More Projects](https://spdgmr.github.io/projects) | [spDE](https://spdgmr.github.io/spde) | [Discord server](https://ffdiscord.github.io) | [Twitter](https://nitter.net/spdgmr) | [YouTube](https://invidious.namazso.eu/speedie) | [RSS](https://raw.githubusercontent.com/spdgmr/posts/main/rss.xml)
 --------------
 
 # My Projects
@@ -9,7 +9,7 @@ Here is a list of most of my projects that I work on or have worked on.
 ## Maintained
 - Elevendebloater // Windows 11 debloater script which removes most of the garbage Windows 11 comes with [[Download]](https://github.com/speediegamer/elevendebloater)
 - Project 081 // Modification of Mac OS X 10.4.10 which adds support for officially unsupported Early 2008 Apple hardware to the older OS. [[Download]](https://p081.github.io)
-- spDE // speedie's suckless Desktop Environment which comes with mostly TUI and simple/suckless software. Compiles from source. [[Download]](https://speedie-de.github.io)
+- spDE // speedie's suckless Desktop Environment which comes with mostly TUI and simple/suckless software and has a focus on being very minimal and resource friendly. Compiles from source. [[Download]](https://spdgmr.github.io/spde)
 - hbc-archive // Homebrew Channel/TT Project archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/hbc-archive)
 - wii // Nintendo Wii Homebrew archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/wii)
 - configurations // speedie's dotfiles and configurations [[Download]](https://github.com/speediegamer/configurations)
