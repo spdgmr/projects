@@ -16,13 +16,14 @@ Here is a list of most of my projects that I work on or have worked on.
 - gentoo-install // gentoo-install is a simple repository with scripts to automate the [Gentoo](https://gentoo.org) installation and ricing process. [[Download]](https://github.com/speediegamer/gentoo-install)
 - gentoo-vmkernel // Gentoo kernel config for running Gentoo virtual machines. [[Download]](https://github.com/speediegamer/gentoo-vmkernel)
 - setwallpaper // Simple TUI interface for easily setting your wallpaper with *feh* using Tiling Window Managers like dwm or i3 [[Download]](https://github.com/speediegamer/setwallpaper)
-- L-G_helper // Fork of L-G_helper for Gentoo/OpenRC which allows you to easily set up a Looking Glass QEMU/KVM setup. [[Download]](https://github.com/speediegamer/L-G_Helper)
+- looking-glass-helper // New version of L-G_helper which supports more distros and has nicer features and a better codebase. [[Download]](https://github.com/speediegamer/looking-glass-helper)
 - keychron-linux // Systemd and OpenRC services which add function key support in Linux for Keychron and Apple keyboards. [[Download]](https://github.com/speediegamer/keychron-linux)
 
 # Unmaintained/Dead
 - gmdccstealer // Customizable silent Geometry Dash CCGameManager.dat, CCGameManager2.dat, CCLocalLevels.dat and CCLocalLevels2.dat stealer [Download (deleted)]
 - The81Project // Project 081 but terrible [[Download]](https://github.com/p081/the81project)
 - Surfcord // Discord client for Linux which uses [suckless.org](https://suckless.org)'s Surf project to build a Chromium free client. [[Download]](https://github.com/speediegamer/configurations)
+- L-G_helper // Fork of L-G_helper for Gentoo/OpenRC which allows you to easily set up a Looking Glass QEMU/KVM setup. [[Download]](https://github.com/speediegamer/L-G_Helper)
 - dwm // Old fork of suckless.org DWM [[Download]](https://github.com/speediegamer/dwm)
 - dwm-binaries // Old fork of suckless.org DWM (compiled binaries) [[Download]](https://github.com/speediegamer/dwm-binaries)
 - slstatus // Old fork of suckless.org slstatus [[Download]](https://github.com/speediegamer/slstatus)
