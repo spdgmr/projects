@@ -7,20 +7,47 @@
 Here is a list of most of my projects that I work on or have worked on.
 
 ## Maintained
+
+### System utilities
 - Elevendebloater // Windows 11 debloater script which removes most of the garbage Windows 11 comes with [[Download]](https://github.com/speediegamer/elevendebloater)
+
+### Operating Systems
 - Project 081 // Modification of Mac OS X 10.4.10 which adds support for officially unsupported Early 2008 Apple hardware to the older OS. [[Download]](https://p081.github.io)
+
+### Desktop software
 - spDE // speedie's suckless Desktop Environment which comes with mostly TUI and simple/suckless software and has a focus on being very minimal and resource friendly. Compiles from source. [[Download]](https://spdgmr.github.io/spde)
+
+### Preservation
 - hbc-archive // Homebrew Channel/TT Project archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/hbc-archive)
 - wii // Nintendo Wii Homebrew archive by Forwarder Factory [[Download]](https://github.com/ForwarderFactory/wii)
+
+### Dotfiles
 - configurations // speedie's dotfiles and configurations [[Download]](https://github.com/speediegamer/configurations)
+
+### Automation
 - gentoo-install // gentoo-install is a simple repository with scripts to automate the [Gentoo](https://gentoo.org) installation and ricing process. [[Download]](https://github.com/speediegamer/gentoo-install)
 - gentoo-vmkernel // Gentoo kernel config for running Gentoo virtual machines. [[Download]](https://github.com/speediegamer/gentoo-vmkernel)
+
+### TUI for software
 - setwallpaper // Simple TUI interface for easily setting your wallpaper with *feh* using Tiling Window Managers like dwm or i3 [[Download]](https://github.com/speediegamer/setwallpaper)
 - looking-glass-helper // New version of L-G_helper which supports more distros and has nicer features and a better codebase. [[Download]](https://github.com/speediegamer/looking-glass-helper)
+
+### OpenCore configurations
+- OC-GIGABYTE-Z170-GAMING-K3 // OpenCore config for the Gigabyte GA-Z170 Gaming K3 motherboard [[Download]](https://github.com/speediegamer/OC-GIGABYTE-Z170-GAMING-K3)
+- OC-ASUS-ROG-Z490G // OpenCore config for the ASUS ROG Strix Z490-G Gaming (WIFI) [[Download]](https://github.com/speediegamer/OC-ASUS-ROG-Z490G)
+
+### For Gentoo users
+- genpkg // dmenu and shell script which opens the Gentoo wiki page for an ebuild [[Download]](https://github.com/speediegamer/genpkg)
+
+### Drivers
 - keychron-linux // Systemd and OpenRC services which add function key support in Linux for Keychron and Apple keyboards. [[Download]](https://github.com/speediegamer/keychron-linux)
 
+### Project 081 Utilities
+- installerapp // Repository for .app installers used by Project 081 [[Download]](https://github.com/speediegamer/installerapp)
+- patchinstaller // Patch installer used by Project 081 0.6 and later [[Download]](https://github.com/p081/patchinstaller)
+
 # Unmaintained/Dead
-- gmdccstealer // Customizable silent Geometry Dash CCGameManager.dat, CCGameManager2.dat, CCLocalLevels.dat and CCLocalLevels2.dat stealer [Download (deleted)]
+- gmdccstealer // Customizable silent Geometry Dash CCGameManager.dat, CCGameManager2.dat, CCLocalLevels.dat and CCLocalLevels2.dat stealer [Download](https://github.com/speediegamer/gmdccstealer)
 - The81Project // Project 081 but terrible [[Download]](https://github.com/p081/the81project)
 - Surfcord // Discord client for Linux which uses [suckless.org](https://suckless.org)'s Surf project to build a Chromium free client. [[Download]](https://github.com/speediegamer/configurations)
 - L-G_helper // Fork of L-G_helper for Gentoo/OpenRC which allows you to easily set up a Looking Glass QEMU/KVM setup. [[Download]](https://github.com/speediegamer/L-G_Helper)
@@ -33,11 +60,7 @@ Here is a list of most of my projects that I work on or have worked on.
 - bashrc // Ancient $HOME/.bashrc dotfile that I haven't used in ages. [[Download]](https://github.com/speediegamer/bashrc)
 - gentoo-scripts // A bunch of random scripts for Gentoo and Linux in general. [[Download]](https://github.com/speediegamer/gentoo-scripts)
 - gentoo-kernel // Old Gentoo kernel .config repository [[Download]](https://github.com/speediegamer/gentoo-kernel)
-- installerapp // Repository for .app installers used by Project 081 [[Download]](https://github.com/speediegamer/installerapp)
 - alacritty // Repository for Alacritty configuration files [[Download]](https://github.com/speediegamer/alacritty)
-- patchinstaller // Patch installer used by Project 081 0.6 and later [[Download]](https://github.com/p081/patchinstaller)
-- OC-GIGABYTE-Z170-GAMING-K3 // OpenCore config for the Gigabyte GA-Z170 Gaming K3 motherboard [[Download]](https://github.com/speediegamer/OC-GIGABYTE-Z170-GAMING-K3)
-- OC-ASUS-ROG-Z490G // OpenCore config for the ASUS ROG Strix Z490-G Gaming (WIFI) [[Download]](https://github.com/speediegamer/OC-ASUS-ROG-Z490G)
 - surfstart // Start page for suckless.org's surf browser [[Download]](https://github.com/spdgmr/surfstart)
 - And much.. much more!
 
