@@ -11,6 +11,9 @@ Here is a list of most of my projects that I work on or have worked on.
 ### System utilities
 - Elevendebloater // Windows 11 debloater script which removes most of the garbage Windows 11 comes with [[Download]](https://github.com/speediegamer/elevendebloater)
 
+### Minimal alternatives
+- dfmpeg // dmenu gui for recording your screen with ffmpeg.
+
 ### Operating Systems
 - Project 081 // Modification of Mac OS X 10.4.10 which adds support for officially unsupported Early 2008 Apple hardware to the older OS. [[Download]](https://p081.github.io)
 
