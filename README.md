@@ -16,6 +16,7 @@ Here is a list of most of my projects that I work on or have worked on.
 
 ### Minimal utilities
 - copyout // dmenu gui which copies the output of a command to your xclip clipboard. [[Download]](https://github.com/speediegamer/copyout)
+- dsearch // dmenu gui which searches up anything in basically any search engine and opens the results in a web browser. [[Download]](https://github.com/speediegamer/dsearch)
 
 ### Operating Systems
 - Project 081 // Modification of Mac OS X 10.4.10 which adds support for officially unsupported Early 2008 Apple hardware to the older OS. [[Download]](https://p081.github.io)
